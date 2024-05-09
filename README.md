@@ -1,5 +1,9 @@
 # LLM-materialsChem-hack24
 
+# Authors:
+- Tapashree Pradhan (KU Leuven, Belgium) [Email](tapashree.pradhan@student.kuleuven.be)
+- Devi Dutta Biswajeet (University of Illinois Chicago, USA) [Email](dbiswa4@uic.edu)
+
 # Synthetic Data Generation and Insightful Machine Learning for High Entropy Alloy Hydrides
 
 ## Introduction
